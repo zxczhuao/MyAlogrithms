@@ -39,7 +39,7 @@ void selectionSort(std::vector<int> &vec){
     }
 }
 
-
+}
 
 void test1(){
     std::vector<int> vector1 = {19, 22, 540, 241, 156, 140, 12, 1};
